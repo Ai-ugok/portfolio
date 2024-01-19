@@ -1,7 +1,7 @@
 /* Googleフォント */
 @import url('https://fonts.googleapis.com/css2?family=New+Tegomin&family=Zen+Kurenaido&display=swap');
 
-/* レスポンシブ */
+/* レスポンシブ（スマホ） */
 @media only screen and (max-width: 400px) {
 * {
   padding: 0;
@@ -63,7 +63,7 @@ a {
 .topBack {
   background-image: url(../imgs/top-photo.jpg);
   background-repeat: no-repeat;
-  /* width: 100%; */
+/*   width: 100%; */
   height: 100vh;
   background-size: cover;
   z-index: -1;
