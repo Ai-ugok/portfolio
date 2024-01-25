@@ -474,7 +474,8 @@ color: #83E9FF;
 }
 }
 
-@media screen and (min-width: 481px)　{ 
+/* レスポンシブ（PC） */
+@media only screen and (min-width: 481px)　{ 
 * {
   padding: 0;
   margin: 0;
