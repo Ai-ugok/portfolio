@@ -165,6 +165,7 @@ h4 {
 .skillText li {
   font-size: 36px;
   list-style: none;
+　white-space: nowrap;
 }
 
 /* ワークス */
