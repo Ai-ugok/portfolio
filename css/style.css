@@ -201,17 +201,21 @@ h4 {
   font-size: 32px;
   position: fixed;
   top: 30px;
-  left: 150px;
+  left: 100px;
 }
 
 .back a:hover {
   color: #83E9FF;
 }
 
+.nav-works {
+  margin-left: 200px;
+}
+
 .works-main {
   color: #515151;
   width: 80%;
-  margin-left: auto;
+  margin-left: 400px;
   margin-right: auto;
   margin-top: 120px;
 }
@@ -285,7 +289,7 @@ h5 {
 
 footer {
   background-color: #515151;
-	width: 1120px;
+  width: 1120px;
   height: 150px;
   position: relative;
 }
